@@ -21,7 +21,7 @@ CPU:             GenuineIntel
     HT:          1
     x64:         1
 Memory:          32688MB
-Free memory:     24279MB
+Free memory:     24264MB
 VA space:        134217728MB
 User:            john lee
 Computer:        DESKTOP-UI6I7EG
@@ -40,9 +40,9 @@ Pixel program:   3.0
 Hardware TnL:    1
 Opt. features:   +sab +a8l8 +rgba16f +r32f +bc4 +bc5 -rawz +intz
 === Options ===
-NumBoots 17
+NumBoots 19
 TerrainSlopeScaling 1
-VerticalSync 0
+VerticalSync 1
 WindowedFullScreen 0
 FrameRateLimit 200
 DisableScreensaverInFullscreenMode 1
@@ -124,7 +124,7 @@ CDSAutomaticUpdates 1
 CDSAutomaticUpdatesUnderAge 0
 RestrictNPCWerewolves 0
 NPCRelationshipAutonomy 1
-LightingQuality 4
+LightingQuality 3
 GeneralReflections 3
 ObjectQuality 3
 VisualEffects 3
@@ -132,18 +132,18 @@ PostProcessing 1
 UseUncompressedTextures 1
 TerrainQuality 2
 EdgeSmoothing 3
-SimQuality 4
+SimQuality 3
 ViewDistance 3
 AdvancedRendering 1
 UseHiDpi 1
 UiScale 100
 UseOSDpi 1
 ResolutionWidth 1920
-ResolutionHeight 1017
-ResolutionRefresh 0
+ResolutionHeight 1080
+ResolutionRefresh 60
 SceneResolution 3
-VisualQuality 5
-FullScreen 0
+VisualQuality 0
+FullScreen 1
 ThunderSnowStorms 1
 IcyConditions 1
 DynamicKeyboardLightingEnabled 1
