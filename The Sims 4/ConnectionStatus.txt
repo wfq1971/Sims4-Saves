@@ -1,11 +1,12 @@
-ConnectivityStatus		Localtime: 2023/10/27 18:47:51		Utc: 2023/10/27 10:47:51
+ConnectivityStatus		Localtime: 2023/11/01 10:50:49		Utc: 2023/11/01 02:50:49
 Host name is DESKTOP-UI6I7EG.
-	1) Address: 172.30.208.1
-	2) Address: 192.168.21.125
+	1) Address: 172.28.128.1
+	2) Address: 10.20.172.42
+	3) Address: 192.168.2.105
 
 SkuVersion: 1.99.264.1030
 Current Master Config url: http://sims4cdn.ea.com/content.ts4/master/live/masterconfig.txt
-Time left to sync: 299 secs
+Time left to sync: 293 secs
 Current Configuration:
 BugSentry: https://gen4.reports.tools.gos.ea.com/bugsentry
 WebstoreURL: https://www.thesims.com/game/store
