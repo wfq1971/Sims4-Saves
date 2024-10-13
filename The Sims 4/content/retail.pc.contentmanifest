@@ -104,6 +104,26 @@
             "file": "1.content.beta.pc.18.0.1.zip",
             "md5": "3fc2d98350b4c3cd35303d5030d71506",
             "extracted_size": 96309485
+        },
+        "1.content.beta.pc.21.0.1": {
+            "file": "1.content.beta.pc.21.0.1.zip",
+            "md5": "05b426cda5ac447de360f0c5c101b3a8",
+            "extracted_size": 65694727
+        },
+        "1.content.beta.pc.23.0.1": {
+            "file": "1.content.beta.pc.23.0.1.zip",
+            "md5": "23340e5ce70ef9a5e627b075125c9713",
+            "extracted_size": 48872726
+        },
+        "1.content.beta.pc.24.0.1": {
+            "file": "1.content.beta.pc.24.0.1.zip",
+            "md5": "6cadd2eab9a31bb6f9284f97cfc87b2b",
+            "extracted_size": 57750693
+        },
+        "1.content.beta.pc.25.0.2": {
+            "file": "1.content.beta.pc.25.0.2.zip",
+            "md5": "bf6c85ec2ee1093a6957b77aa5350561",
+            "extracted_size": 93584223
         }
     }
 }
