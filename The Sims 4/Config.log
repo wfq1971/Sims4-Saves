@@ -21,7 +21,7 @@ CPU:             GenuineIntel
     HT:          1
     x64:         1
 Memory:          32688MB
-Free memory:     18839MB
+Free memory:     18716MB
 VA space:        134217728MB
 User:            john lee
 Computer:        DESKTOP-UI6I7EG
@@ -40,10 +40,10 @@ Pixel program:   5.0
 Hardware TnL:    1
 Opt. features:   
 === Options ===
-NumBoots 23
+NumBoots 24
 TerrainSlopeScaling 1
 ForceDX9 0
-VerticalSync 0
+VerticalSync 1
 WindowedFullScreen 0
 FrameRateLimit 200
 DisableScreensaverInFullscreenMode 1
@@ -150,12 +150,12 @@ AdvancedRendering 1
 UseHiDpi 1
 UiScale 100
 UseOSDpi 1
-ResolutionWidth 2023
-ResolutionHeight 1061
-ResolutionRefresh 0
+ResolutionWidth 2560
+ResolutionHeight 1080
+ResolutionRefresh 60
 SceneResolution 3
 VisualQuality 5
-FullScreen 0
+FullScreen 1
 ThunderSnowStorms 1
 IcyConditions 1
 DynamicKeyboardLightingEnabled 1
