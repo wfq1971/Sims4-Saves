@@ -21,7 +21,7 @@ CPU:             GenuineIntel
     HT:          1
     x64:         1
 Memory:          32688MB
-Free memory:     19914MB
+Free memory:     15839MB
 VA space:        134217728MB
 User:            john lee
 Computer:        DESKTOP-UI6I7EG
@@ -31,8 +31,8 @@ Name (driver):   NVIDIA GeForce GTX 1080
 Name (database): NVIDIA GeForce GTX 1080 [Found: 1, Supported: 1]
 Vendor:          NVIDIA
 Chipset:         Vendor: 10de, Device: 1b80, Board: 37021458, Chipset: 00a1
-Driver:          , Version: 32.0.15.6094, GUID: 31A6DF6B-79F8-11EE-8422-00E04C5662AD
-Driver version:  6094
+Driver:          , Version: 32.0.15.6636, GUID: 31A6DF6B-79F8-11EE-8422-00E04C5662AD
+Driver version:  6636
 Monitor:         \\.\DISPLAY1
 Texture memory:  8059MB
 Vertex program:  5.0
@@ -40,7 +40,7 @@ Pixel program:   5.0
 Hardware TnL:    1
 Opt. features:   
 === Options ===
-NumBoots 25
+NumBoots 27
 TerrainSlopeScaling 1
 ForceDX9 0
 VerticalSync 0
@@ -150,12 +150,12 @@ AdvancedRendering 1
 UseHiDpi 1
 UiScale 100
 UseOSDpi 1
-ResolutionWidth 2560
-ResolutionHeight 1080
+ResolutionWidth 2544
+ResolutionHeight 1001
 ResolutionRefresh 0
 SceneResolution 3
 VisualQuality 5
-FullScreen 1
+FullScreen 0
 ThunderSnowStorms 1
 IcyConditions 1
 DynamicKeyboardLightingEnabled 1
