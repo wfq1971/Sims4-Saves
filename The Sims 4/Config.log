@@ -21,7 +21,7 @@ CPU:             GenuineIntel
     HT:          1
     x64:         1
 Memory:          32688MB
-Free memory:     15839MB
+Free memory:     9869MB
 VA space:        134217728MB
 User:            john lee
 Computer:        DESKTOP-UI6I7EG
@@ -40,7 +40,7 @@ Pixel program:   5.0
 Hardware TnL:    1
 Opt. features:   
 === Options ===
-NumBoots 27
+NumBoots 29
 TerrainSlopeScaling 1
 ForceDX9 0
 VerticalSync 0

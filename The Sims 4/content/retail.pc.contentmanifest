@@ -124,6 +124,11 @@
             "file": "1.content.beta.pc.25.0.2.zip",
             "md5": "bf6c85ec2ee1093a6957b77aa5350561",
             "extracted_size": 93584223
+        },
+        "1.content.beta.pc.31.0.2": {
+            "file": "1.content.beta.pc.31.0.2.zip",
+            "md5": "b6518a92f104e771b2867472661644ed",
+            "extracted_size": 363967275
         }
     }
 }
