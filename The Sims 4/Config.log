@@ -1,7 +1,7 @@
 === Application info ===
 Name:            Sims4
 Version:         1.108.335.1020
-Build:           Release DX11 64-bit
+Build:           Release DX9 64-bit
 === Rating info ===
 GPU: 5 GPU Memory: 4 CPU: 3 RAM: 4 CPU Speed: 2494 Threading: 3
 Adjusted CPU: 3541 RAM: 32688 Adjusted RAM: 32176 Cores: 10
@@ -21,7 +21,7 @@ CPU:             GenuineIntel
     HT:          1
     x64:         1
 Memory:          32688MB
-Free memory:     22778MB
+Free memory:     24202MB
 VA space:        134217728MB
 User:            john lee
 Computer:        DESKTOP-UI6I7EG
@@ -31,16 +31,16 @@ Name (driver):   NVIDIA GeForce GTX 1080
 Name (database): NVIDIA GeForce GTX 1080 [Found: 1, Supported: 1]
 Vendor:          NVIDIA
 Chipset:         Vendor: 10de, Device: 1b80, Board: 37021458, Chipset: 00a1
-Driver:          , Version: 32.0.15.7260, GUID: 31A6DF6B-79F8-11EE-8422-00E04C5662AD
+Driver:          nvldumdx.dll, Version: 32.0.15.7260, GUID: D7B71E3E-58C0-11CF-B46B-0D170EC2ED35
 Driver version:  7260
 Monitor:         \\.\DISPLAY1
 Texture memory:  8059MB
-Vertex program:  5.0
-Pixel program:   5.0
+Vertex program:  3.0
+Pixel program:   3.0
 Hardware TnL:    1
-Opt. features:   
+Opt. features:   +sab +a8l8 +rgba16f +r32f +bc4 +bc5 -rawz +intz
 === Options ===
-NumBoots 35
+NumBoots 36
 TerrainSlopeScaling 1
 ForceDX9 0
 VerticalSync 0
