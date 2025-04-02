@@ -1,7 +1,7 @@
 === Application info ===
 Name:            Sims4
 Version:         1.108.335.1020
-Build:           Release DX9 64-bit
+Build:           Release DX11 64-bit
 === Rating info ===
 GPU: 5 GPU Memory: 4 CPU: 3 RAM: 4 CPU Speed: 2494 Threading: 3
 Adjusted CPU: 3541 RAM: 32688 Adjusted RAM: 32176 Cores: 10
@@ -21,7 +21,7 @@ CPU:             GenuineIntel
     HT:          1
     x64:         1
 Memory:          32688MB
-Free memory:     23564MB
+Free memory:     24288MB
 VA space:        134217728MB
 User:            john lee
 Computer:        DESKTOP-UI6I7EG
@@ -31,16 +31,16 @@ Name (driver):   NVIDIA GeForce GTX 1080
 Name (database): NVIDIA GeForce GTX 1080 [Found: 1, Supported: 1]
 Vendor:          NVIDIA
 Chipset:         Vendor: 10de, Device: 1b80, Board: 37021458, Chipset: 00a1
-Driver:          nvldumdx.dll, Version: 32.0.15.7260, GUID: D7B71E3E-58C0-11CF-B46B-0D170EC2ED35
+Driver:          , Version: 32.0.15.7260, GUID: 31A6DF6B-79F8-11EE-8422-00E04C5662AD
 Driver version:  7260
-Monitor:         \\.\DISPLAY1
+Monitor:         \\.\DISPLAY166
 Texture memory:  8059MB
-Vertex program:  3.0
-Pixel program:   3.0
+Vertex program:  5.0
+Pixel program:   5.0
 Hardware TnL:    1
-Opt. features:   +sab +a8l8 +rgba16f +r32f +bc4 +bc5 -rawz +intz
+Opt. features:   
 === Options ===
-NumBoots 39
+NumBoots 57
 TerrainSlopeScaling 1
 ForceDX9 0
 VerticalSync 0
@@ -116,7 +116,7 @@ OnlineAccess 1
 DisableComments 0
 HideReportedContent 0
 AnimaticPack 1000
-SurveysEnabled 1
+SurveysEnabled 0
 MuteTutorialNarration 0
 EnableFTUETutorialStart 0
 GuidanceAutoEnabled 1
@@ -151,11 +151,11 @@ UseHiDpi 1
 UiScale 100
 UseOSDpi 1
 ResolutionWidth 2560
-ResolutionHeight 1080
+ResolutionHeight 1017
 ResolutionRefresh 0
 SceneResolution 3
 VisualQuality 5
-FullScreen 1
+FullScreen 0
 ThunderSnowStorms 1
 IcyConditions 1
 DynamicKeyboardLightingEnabled 1
