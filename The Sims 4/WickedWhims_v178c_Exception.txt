@@ -1,0 +1,16 @@
+Game Version: 1.108.335.1020, WickedWhims Version: v178c, , P:232 S:19 D:16
+03/24/25 16:24:49 Traceback (most recent call last):
+  File "T:\InGame\Gameplay\Scripts\Server\sims\masked\v178c\exception_watcher_wrapper.py", line 25, in wrapper
+  File ".\WickedWhims_v178c\turbolib2\tunables\interaction\interactions.py", line 81, in _trigger_interaction_start_event
+  File ".\WickedWhims_v178c\wickedwhims\sex\autonomy\interactions\technical.py", line 163, in on_interaction_start
+AttributeError: 'Location' object has no attribute 'get_object_instance'
+
+Game Version: 1.108.335.1020, WickedWhims Version: v178c, , P:232 S:19 D:16
+03/24/25 16:26:23 Traceback (most recent call last):
+  File "T:\InGame\Gameplay\Scripts\Server\sims\masked\v178c\exception_watcher_wrapper.py", line 25, in wrapper
+  File ".\WickedWhims_v178c\turbolib2\tunables\interaction\interactions.py", line 81, in _trigger_interaction_start_event
+  File ".\WickedWhims_v178c\wickedwhims\sex\integral\joining_sex\interactions.py", line 197, in on_interaction_start
+  File ".\WickedWhims_v178c\wickedwhims\sex\integral\sex_handlers\active_sex\active_sex_instance.py", line 470, in get_pre_sex_instance
+  File ".\WickedWhims_v178c\wickedwhims\sex\integral\sex_handlers\pre_sex\pre_sex_instance.py", line 89, in add_sim
+AttributeError: 'NoneType' object has no attribute 'get_sim_id'
+
