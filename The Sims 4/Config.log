@@ -1,7 +1,7 @@
 === Application info ===
 Name:            Sims4
 Version:         1.108.335.1020
-Build:           Release DX9 64-bit
+Build:           Release DX11 64-bit
 === Rating info ===
 GPU: 5 GPU Memory: 4 CPU: 3 RAM: 4 CPU Speed: 2494 Threading: 3
 Adjusted CPU: 3541 RAM: 32688 Adjusted RAM: 32176 Cores: 10
@@ -21,11 +21,7 @@ CPU:             GenuineIntel
     HT:          1
     x64:         1
 Memory:          32688MB
-<<<<<<< HEAD
-Free memory:     23659MB
-=======
-Free memory:     23564MB
->>>>>>> parent of e2482a4 (修复7)
+Free memory:     20884MB
 VA space:        134217728MB
 User:            john lee
 Computer:        DESKTOP-UI6I7EG
@@ -35,26 +31,16 @@ Name (driver):   NVIDIA GeForce GTX 1080
 Name (database): NVIDIA GeForce GTX 1080 [Found: 1, Supported: 1]
 Vendor:          NVIDIA
 Chipset:         Vendor: 10de, Device: 1b80, Board: 37021458, Chipset: 00a1
-<<<<<<< HEAD
-Driver:          nvldumdx.dll, Version: 32.0.15.7283, GUID: D7B71E3E-58C0-11CF-9B6B-0D170EC2ED35
+Driver:          , Version: 32.0.15.7283, GUID: 6D7499DF-1566-11F0-8554-F44EFC9C7E3C
 Driver version:  7283
-Monitor:         \\.\DISPLAY6
-=======
-Driver:          nvldumdx.dll, Version: 32.0.15.7260, GUID: D7B71E3E-58C0-11CF-B46B-0D170EC2ED35
-Driver version:  7260
 Monitor:         \\.\DISPLAY1
->>>>>>> parent of e2482a4 (修复7)
 Texture memory:  8059MB
-Vertex program:  3.0
-Pixel program:   3.0
+Vertex program:  5.0
+Pixel program:   5.0
 Hardware TnL:    1
-Opt. features:   +sab +a8l8 +rgba16f +r32f +bc4 +bc5 -rawz +intz
+Opt. features:   
 === Options ===
-<<<<<<< HEAD
-NumBoots 61
-=======
-NumBoots 39
->>>>>>> parent of e2482a4 (修复7)
+NumBoots 62
 TerrainSlopeScaling 1
 ForceDX9 0
 VerticalSync 0
@@ -130,7 +116,7 @@ OnlineAccess 1
 DisableComments 0
 HideReportedContent 0
 AnimaticPack 1000
-SurveysEnabled 1
+SurveysEnabled 0
 MuteTutorialNarration 0
 EnableFTUETutorialStart 0
 GuidanceAutoEnabled 1

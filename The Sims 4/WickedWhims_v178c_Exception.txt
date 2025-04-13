@@ -74,3 +74,18 @@ Traceback (most recent call last):
 RuntimeError: WickedWhims PACKAGE file is missing or incomplete. Failed to initiate Strip Club business. From: 'NoneType' object has no attribute 'bucks'
 TurboLib: [TurboLib] Failed to run '_wickedwhims_basic_tuning_injection' method from 'WickedWhims' -> RuntimeError: WickedWhims PACKAGE file is missing or incomplete. Failed to initiate Strip Club business. From: 'NoneType' object has no attribute 'bucks'
 
+Game Version: 1.108.335.1020, WickedWhims Version: v178c, , P:88 S:19 D:0
+04/13/25 22:59:29 Traceback (most recent call last):
+  File ".\WickedWhims_v178c\wickedwhims\main\business\_ts4_business_injections.py", line 81, in _tuning_inject_new_business_types
+  File ".\WickedWhims_v178c\wickedwhims\main\business\_ts4_business_injections.py", line 88, in _inject_custom_business_type_data
+AttributeError: 'NoneType' object has no attribute 'bucks'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File ".\WickedWhims_v178c\turbolib2\events\utils\events_handler.py", line 72, in execute_event_methods
+  File ".\WickedWhims_v178c\wickedwhims\main\game_handlers\tuning\tuning_basic_injection.py", line 27, in _wickedwhims_basic_tuning_injection
+  File ".\WickedWhims_v178c\wickedwhims\main\business\_ts4_business_injections.py", line 83, in _tuning_inject_new_business_types
+RuntimeError: WickedWhims PACKAGE file is missing or incomplete. Failed to initiate Strip Club business. From: 'NoneType' object has no attribute 'bucks'
+TurboLib: [TurboLib] Failed to run '_wickedwhims_basic_tuning_injection' method from 'WickedWhims' -> RuntimeError: WickedWhims PACKAGE file is missing or incomplete. Failed to initiate Strip Club business. From: 'NoneType' object has no attribute 'bucks'
+
